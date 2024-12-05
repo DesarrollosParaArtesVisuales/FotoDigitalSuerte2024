@@ -1,3 +1,3 @@
-# Muestra de Fotografía Artística Retratos que cuentan
+# Muestra de Fotografía Digital Suerte
 
-https://desarrollosparaartesvisuales.github.io/FotoArtistica20232s/index.html#img1
+https://desarrollosparaartesvisuales.github.io//FotoDigitalSuerte2024/index.html#img1
