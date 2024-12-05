@@ -36,6 +36,11 @@ a.estoyaqui{
 
 }
 
+a.va_al_siguiente{
+    background: #000; 
+
+}
+
 img {
     max-width: 80%;
     max-height: 600px;
